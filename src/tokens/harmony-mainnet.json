@@ -142,5 +142,13 @@
     "name": "Fraterium",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/FRATE.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x7510eb1a5AB10a6E9f67ef88E1156C99C48Ac3DA",
+    "symbol": "FPD",
+    "name": "FinneysPartDepot.com",
+    "decimals": 18,
+    "logoURI": "https://gateway.pinata.cloud/ipfs/QmYVj364knXZtrxCqcRf3spmNfwp9Mt3USfZwpFUa3fA2U"
   }
 ]
